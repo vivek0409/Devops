@@ -1,1 +1,2 @@
 This is teh file
+This file has 2 line
